@@ -1,4 +1,4 @@
-1. Project Title
+1.Project Title:
 Credit Card Frauds Detection.
   
 2.DescriptiCredit card fraud is a significant problem, with billions of dollars lost each year.
